@@ -1,0 +1,21 @@
+# Compiled MQL5/MQL4 files
+*.ex5
+*.ex4
+
+# Log files
+*.log
+
+# MT5/MT4 specific files
+*.mpt
+*.set
+*.tpl
+*.chr
+*.fxt
+*.hst
+*.srv
+
+# macOS specific
+.DS_Store
+
+# VSCode specific cache
+.vscode/ipch/
